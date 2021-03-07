@@ -4,7 +4,7 @@ My name is Davin, I'm a software engineer and a construction superintendent! I'm
 - 💐 I’m currently working on a full stack ecommerce website for a flowershop 
 - 🧠 I’m currently learning Express.js
 - 💬 Ask me about anything!
-- 📫 How to reach me: send me a message on here
+- 📫 How to reach me: send me an email davin.young19@gmail.com
 - 👷 Recent accomplishment: Managed and ran two seperate twenty men construction crews on two $80 million projects in SWFL at the same time.
 - 🛩️ I would love to get a pilots license one day
 
