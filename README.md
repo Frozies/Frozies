@@ -31,4 +31,3 @@ My name is Davin, I'm a software engineer and a construction superintendent! I'm
 - 💖 CPR, First-Aid, AED
 - 🏗️ Scissor-lift license
 - 🔫 Powder-actuated tooling license
-- 🕵️ Government, public school, & airport security clearance
