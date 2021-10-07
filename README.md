@@ -1,7 +1,7 @@
 # Hello Internet!
 My name is Davin, I'm a software engineer and a construction superintendent! I'm a full-stack developer with experience in frontend design and backend architecture. I love programming, and technical problem solving. I play Counterstrike too!
 
-- 💐 I’m currently working on a full stack ecommerce website for a flowershop 
+- 💐 I’m currently working on three full stack applications for a flowershop, a nutritionist, a drone safty program.
 - 🧠 I’m currently learning Github Actions and Docker
 - 💬 Ask me about anything!
 - 📫 How to reach me: send me an email davin.young19@gmail.com
@@ -31,3 +31,4 @@ My name is Davin, I'm a software engineer and a construction superintendent! I'm
 - 💖 CPR, First-Aid, AED
 - 🏗️ Scissor-lift license
 - 🔫 Powder-actuated tooling license
+- 🖌️ Photoshop CS6
