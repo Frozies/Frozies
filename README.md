@@ -1,11 +1,10 @@
 # Hello Internet!
-My name is Davin, I'm a software engineer and a construction superintendent! I'm a full-stack developer with experience in frontend design and backend architecture. I love programming, and technical problem solving. I play Counterstrike too!
+My name is Davin, I'm a software engineer and a former construction superintendent! I'm a full-stack developer with experience in frontend design and backend architecture. I love programming, and technical problem solving.
 
-- 💐 I’m currently working on two full stack applications for a flowershop
-- 🧠 I’m currently learning Shopify Hydrogen
-- 💬 Ask me about anything!
+- 💐 I’m currently working on a full stack applications for a flowershop using Shopify Hydrogen
+- 🧠 I’m currently learning Shopify Hydrogen & Web 3
 - 📫 How to reach me: send me an email davin.young19@gmail.com
-- 👷 Recent accomplishment: Managed and ran two seperate twenty men construction crews on two $80 million projects in SWFL at the same time.
+- 👷 Recent accomplishment: Earned a position at a Blockchain Startup
 - 🛩️ I would love to get a pilots license one day
 
 ### Technical Skills
