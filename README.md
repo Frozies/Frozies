@@ -1,10 +1,10 @@
 # Hello Internet!
 My name is Davin, I'm a software engineer and a former construction superintendent! I'm a full-stack developer with experience in frontend design and backend architecture. I love programming, and technical problem solving.
 
-- ₿ I’m currently working on https://petcoin.care/
+- ₿ I’m currently working on https://petcoin.love/
 - 💐 I’m currently working on a full stack application for a flowershop using Shopify Hydrogen
 - 🧠 I’m currently learning Shopify Hydrogen & Web 3
-- 📫 How to reach me: send me an email davin.young19@gmail.com
+- 📫 How to reach me: send me an email davin@petcoin.love/
 - 🛩️ I would love to get a pilots license one day
 
 ### Technical Skills
