@@ -1,1 +1,1 @@
-Hello, I'm Davin. Im the IT Director for https://pets.love/
+Hello, I'm Davin. Im the Director of IT for https://petsocial.love/ and https://petcoin.love/
