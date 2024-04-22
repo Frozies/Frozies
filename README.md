@@ -1,1 +1,1 @@
-Hello, I'm Davin. Im the Director of IT for https://petsocial.love/ and https://petcoin.love/
+Hello, I'm Davin. I'm currenty the CTO at SecureTap working on anticounterfeit blockchain solutions. 
